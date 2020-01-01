@@ -1,7 +1,7 @@
 # todo2020
 ## List of tasks to complete in the year 2020
 
-- [ ] get ot intermediate level with git and github
+- [ ] intermediate level with git and github
 - [ ] learn and implement TDD, SOLID
 - [ ] algorithims, design patterns and data sctructure
 - [ ] python. advanced level
