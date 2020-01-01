@@ -15,6 +15,7 @@
 - [ ] GraphQL
 - [ ] learn flutter
 - [ ] develop 3 apps
+- [ ] look into project Eauler and Rosetta stone
 - [ ] learn cli editor (vim)
 - [ ] start a meet up group
 - [ ] spanish. conversational level
