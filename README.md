@@ -23,3 +23,4 @@
 - [ ] improve writing skills
 - [ ] finisish course on economics
 - [ ] improve bash skills
+- [ ] webpack
